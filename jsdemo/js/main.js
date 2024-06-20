@@ -37,6 +37,10 @@ let arr = [
         "name": "Sergiy",
         "age": 19,
         "title": "description"
+    },{
+        "name": "Nikita",
+        "age": 19,
+        "title": "Студент"
     },
 ];
 
